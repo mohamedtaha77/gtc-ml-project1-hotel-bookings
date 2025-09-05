@@ -3,8 +3,8 @@
 A compact, reproducible data‑cleaning and preprocessing project on the **Hotel Bookings** dataset.
 
 ## Repo Contents
-- `notebook.ipynb` — Colab-ready notebook (EDA → Cleaning → Features → Split)
-- `hotel_bookings.csv` — raw dataset
+- `notebook.ipynb`:  Colab-ready notebook (EDA → Cleaning → Features → Split)
+- `hotel_bookings.csv`: raw dataset
 
 ## Run in Google Colab
 1. Open Colab → New Notebook  
